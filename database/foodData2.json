@@ -1,0 +1,182 @@
+[
+    {
+        "CategoryName": "Vegetables & Fruits",
+        "name": "Cauliflower",
+        "img": "https://www.gardeningknowhow.com/wp-content/uploads/2021/02/cauliflower-plants-1536x1152.jpg",
+        "options": [
+            {
+                "1 kg": "60",
+                "500 gm": "30"
+            }
+        ],
+        "description": "Cruciferous veggie packed with vitamin C and fiber for immune support and digestion."
+    },
+    {
+        "CategoryName": "Vegetables & Fruits",
+        "name": "Carrot",
+        "img": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2018/4/25/3/shutterstock_440493100_5-second-Studio_carrots.jpg.rend.hgtvcom.1280.853.suffix/1524688181811.jpeg",
+        "options": [
+            {
+                "1 kg": "80",
+                "500 gm": "40"
+            }
+        ],
+        "description": "Excellent source of beta-carotene, promoting healthy vision and skin."
+    },
+    {
+        "CategoryName": "Vegetables & Fruits",
+        "name": "Capsicum",
+        "img": "https://www.theseedcollection.com.au/assets/full/C7-08.jpg?20220204133422",
+        "options": [
+            {
+                "1 kg": "180",
+                "500 gm": "90"
+            }
+        ],
+        "description": "Rich in vitamins A and C, offering antioxidant benefits and immune system boost."
+    },
+    {
+        "CategoryName": "Vegetables & Fruits",
+        "name": "Watermelon",
+        "img": "https://images6.alphacoders.com/386/386695.jpg",
+        "options": [
+            {
+                "1 kg": "50",
+                "500 gm": "25"
+            }
+        ],
+        "description": "Hydrating fruit rich in lycopene and antioxidants, supporting heart health."
+    },
+    {
+        "CategoryName": "Vegetables & Fruits",
+        "name": "Avocado",
+        "img": "https://pluspng.com/img-png/avocado-png-avocado-png-2048.png=",
+        "options": [
+            {
+                "1 pcs": "150",
+                "5 pcs": "700"
+            }
+        ],
+        "description": "Healthy fat source providing potassium for heart health and fiber for digestion."
+    },
+    {
+        "CategoryName": "Vegetables & Fruits",
+        "name": "Kiwi",
+        "img": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg",
+        "options": [
+            {
+                "1 pcs": "50",
+                "5 pcs": "220"
+            }
+        ],
+        "description": "A powerhouse of vitamin C, aiding in iron absorption and promoting collagen production."
+    },
+    {
+        "CategoryName": "Dairy & Breakfastr",
+        "name": "Milk",
+        "img": "https://images.indianexpress.com/2024/01/calcium-milk.jpg",
+        "options": [
+            {
+                "1 ltr": "32",
+                "500 ml": "64"
+            }
+        ],
+        "description": "Builds strong bones with calcium and vitamin D, keeps you energized."
+    },
+    {
+        "CategoryName": "Dairy & Breakfast",
+        "name": "Bread",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhnILpoAygZ1qozYNWlJZvqVfpczMy8sErA&usqp=CAU",
+        "options": [
+            {
+                "250 gm": "40",
+                "400 gm": "60"
+            }
+        ],
+        "description": "Versatile source of carbohydrates for energy, base for countless meals."
+    },
+    {
+        "CategoryName": "Dairy & Breakfast",
+        "name": "Eggs",
+        "img": "https://cdn.jwplayer.com/v2/media/Gsggb6ao/poster.jpg?width=720",
+        "options": [
+            {
+                "6 pcs": "96",
+                "12 pcs": "189"
+            }
+        ],
+        "description": "Powerhouse of protein and essential nutrients for a satisfying start."
+    },
+    {
+        "CategoryName": "Dairy & Breakfast",
+        "name": "Oats",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5ZN8kkkQNUy1N5zZN8ybct5elVQWD4u06g&usqp=CAU",
+        "options": [
+            {
+                "1 kg": "382",
+                "500 gm": "179"
+            }
+        ],
+        "description": "Fiber-rich whole grain for sustained energy and healthy digestion."
+    },
+    {
+        "CategoryName": "Dairy & Breakfast",
+        "name": "Flakes",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/251018_7-kelloggs-corn-flakes.jpg",
+        "options": [
+            {
+                "250 gm": "115",
+                "475 gm": "205"
+            }
+        ],
+        "description": "Crunchy breakfast option packed with whole grains and often fortified with vitamins and minerals."
+    },
+    {
+        "CategoryName": "Munchies",
+        "name": "Chips",
+        "img": "https://m.media-amazon.com/images/I/71jRUai8U6L._AC_UF1000,1000_QL80_.jpg",
+        "options": [
+            {
+                "40 gm": "20",
+                "90 gm": "50"
+            }
+        ],
+        "description": "Crunchy snack typically high in sodium and fat."
+    },
+    {
+        "CategoryName": "Munchies",
+        "name": "Nachos",
+        "img": "https://m.media-amazon.com/images/I/71d3+xq2T9L.jpg",
+        "options": [
+            {
+                "75 gm": "45",
+                "153 gm": "78"
+            }
+        ],
+        "description": "Fried tortilla chips often loaded with cheese, beans, and meat, increasing calorie and fat content."
+    },
+    {
+        "CategoryName": "Munchies",
+        "name": "Bhujia",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7KbSx4nQIUQftRkNCEhjCHUlborqZijUwQ&usqp=CAU",
+        "options": [
+            {
+                "210 gm": "45",
+                "400 gm": "104"
+            }
+        ],
+        "description": " Deep-fried chickpea flour snack high in fat and calories."
+    },
+    {
+        "CategoryName": "Munchies",
+        "name": "Popcorn",
+        "img": "https://m.media-amazon.com/images/I/71ZGe4P0kdL._AC_UF1000,1000_QL80_.jpg",
+        "options": [
+            {
+                "110 gm": "59",
+                "450 gm": "145"
+            }
+        ],
+        "description": " Whole grain source of fiber but can be high in calories and fat depending on seasonings."
+    }
+]
